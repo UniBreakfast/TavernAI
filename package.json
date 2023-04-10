@@ -36,5 +36,9 @@
             "public",
             "uploads"
         ]
+    },
+    "scripts": {
+        "start": "node server",
+        "build": "npm rebuild sharp"
     }
 }
